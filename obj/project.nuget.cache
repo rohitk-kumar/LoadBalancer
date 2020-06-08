@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ZLwVzadZOETDonxa9W33FhPXKZPtZnM7aU0eg0GBz9LD8zTvCQ2OUtq4wd/WLlGzKpEdXjTlbR1c21fNjYQ8A==",
+  "success": true,
+  "projectFilePath": "C:\\code\\C#\\ResearchSandbox\\LoadBalancer\\LoadBalancer\\LoadBalancer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit Kumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
