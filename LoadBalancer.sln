@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadBalancer", "LoadBalancer.csproj", "{F866E59C-86BA-48C3-9DE1-8344DA784E67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoadBalancer", "LoadBalancer.csproj", "{F866E59C-86BA-48C3-9DE1-8344DA784E67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "..\DataAccessLibrary\DataAccessLibrary.csproj", "{05118BB8-038E-4E2D-9B11-B215214B3850}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "..\DataAccessLibrary\DataAccessLibrary.csproj", "{05118BB8-038E-4E2D-9B11-B215214B3850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmLibrary", "..\AlgorithmLibrary\AlgorithmLibrary.csproj", "{3B1DC4E3-46F3-4699-B2CF-98079B34E828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmLibrary", "..\AlgorithmLibrary\AlgorithmLibrary.csproj", "{3B1DC4E3-46F3-4699-B2CF-98079B34E828}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
