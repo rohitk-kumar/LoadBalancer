@@ -44,6 +44,10 @@ C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\Loa
 C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\LoadBalancer.pdb
 C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\LoadBalancer.genruntimeconfig.cache
 C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\LoadBalancer.csproj.CopyComplete
-C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\LoadBalancer.csprojAssemblyReference.cache
 C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\RazorDeclaration\Views\MerchantComponent.razor.g.cs
 C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\Razor\Views\MerchantComponent.razor.g.cs
+C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\bin\Debug\netcoreapp3.1\AlgorithmLibrary.dll
+C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\bin\Debug\netcoreapp3.1\AlgorithmLibrary.pdb
+C:\code\C#\ResearchSandbox\LoadBalancer\LoadBalancer\obj\Debug\netcoreapp3.1\LoadBalancer.csprojAssemblyReference.cache

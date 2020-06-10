@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using LoadBalancer.Views;
+using System.Security.Cryptography;
+using AlgorithmLibrary;
 
 namespace LoadBalancer
 {
@@ -29,6 +31,7 @@ namespace LoadBalancer
             services.AddRazorPages();
             services.AddServerSideBlazor();
             //services.AddSingleton<WeatherForecastService>();
+            services.AddTransient<IAlgorithm, Algorithm1>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
