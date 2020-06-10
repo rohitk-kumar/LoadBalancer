@@ -25,7 +25,12 @@ namespace AlgorithmLibrary
             List<T> merchantAccountPassRateList = new List<T>();
             return merchantAccountPassRateList;
         }
-
+        /// <summary>
+        /// Recieves all the merchant accounts on which checks will be run.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="list"></param>
+        /// <returns></returns>
         public IList<T> RunAlgorithm<T>(IList<T> list)
         {
             throw new NotImplementedException();
